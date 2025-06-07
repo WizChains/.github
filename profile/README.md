@@ -1,7 +1,7 @@
 Official Links
 GIthub: https://github.com/WizChains/
-Quai Community Discord: https://discord.gg/
-Quai Development Discord: https://discord.gg/
+Community Discord: https://discord.gg/
+ Development Discord: https://discord.gg/
 YouTube: https://youtube.com/
 Medium: 
 TikTok: https://www.tiktok.com/
